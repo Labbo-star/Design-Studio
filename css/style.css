@@ -539,6 +539,8 @@
 
 .main__section_four {
     display: flex;
+    justify-content: center;
+    margin-right: 100px;
     column-gap: 131px;
     width: 100%;
     margin-bottom: 322.53px;
